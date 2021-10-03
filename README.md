@@ -7,4 +7,4 @@ Currently I work mainly on my Website Developed-Comunnity
 JavaScript ❤️.
 Html & Css ❤️.
 
-Contact INSTAGRAM: Mangek23
+Contact: tedemit.dev@gmail.com

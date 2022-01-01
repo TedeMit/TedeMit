@@ -1,10 +1,11 @@
 ### Hi there 👋
 
 I come from Spaint sp, and I am a full-stack programmer.
-Currently I work mainly on my Website Developed-Comunnity
+Currently I work mainly on my Website https://mangek23.000webhostapp.com/
 
 
-JavaScript ❤️.
-Html & Css ❤️.
+JAVASCRIPT❤️
+HTML & CSS❤️
+C#/C++❤️
 
-Contact: tedemit.dev@gmail.com
+Contact: https://mangekblog.000webhostapp.com/Contacto.html
